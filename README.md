@@ -1,6 +1,7 @@
 # EvalML
 
-                                 ![EvalML](https://user-images.githubusercontent.com/62986688/115106682-da7ba300-9f83-11eb-938c-c14bdb269868.jpg)
+![EvalML](https://user-images.githubusercontent.com/62986688/115106682-da7ba300-9f83-11eb-938c-c14bdb269868.jpg)
+
     
     EvalML is an AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
     
