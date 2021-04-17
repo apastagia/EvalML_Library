@@ -20,3 +20,5 @@
 ### Install from PyPI
 
 **pip install evalml**
+
+Dataset link: https://www.kaggle.com/pankajvermacool/titanic-traincsv
